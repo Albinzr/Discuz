@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Plugin]]></item>
+	<item id="Data">
+		<item id="plugin">
+			<item id="available"><![CDATA[1]]></item>
+			<item id="adminid"><![CDATA[1]]></item>
+			<item id="name"><![CDATA[Wechat Login]]></item>
+			<item id="identifier"><![CDATA[wechat]]></item>
+			<item id="description"><![CDATA[]]></item>
+			<item id="datatables"><![CDATA[]]></item>
+			<item id="directory"><![CDATA[wechat/]]></item>
+			<item id="copyright"><![CDATA[Comsenz Inc.]]></item>
+			<item id="version"><![CDATA[1.1.6]]></item>
+			<item id="__modules">
+				<item id="1">
+					<item id="name"><![CDATA[wechat]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[11]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="2">
+					<item id="name"><![CDATA[spacecp]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[WeChat binding]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[7]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="3">
+					<item id="name"><![CDATA[wechat]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[28]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="4">
+					<item id="name"><![CDATA[wsq_setting]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[Micro-community settings]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="5">
+					<item id="name"><![CDATA[showactivity_setting]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[Show activity]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="6">
+					<item id="name"><![CDATA[wechat_setting]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[WeChat settings]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="7">
+					<item id="name"><![CDATA[menu_setting]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[Menu Settings]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="8">
+					<item id="name"><![CDATA[response_setting]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[Responce settings]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="9">
+					<item id="name"><![CDATA[resource_setting]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[Feed setting]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="10">
+					<item id="name"><![CDATA[api_setting]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[API]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="11">
+					<item id="name"><![CDATA[masssend_setting]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[Bulk send settings]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+                		<item id="12">
+					<item id="name"><![CDATA[wsq_stat]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[Micro-community statistics]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="13">
+					<item id="name"><![CDATA[wsq_app]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[Activity Center]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+			</item>
+		</item>
+		<item id="version"><![CDATA[X2.5,X3,X3.1,X3.2,X3.3,X3.4]]></item>
+		<item id="language">
+			<item id="scriptlang">
+				<item id="wechat_undefined"><![CDATA[This link has expired, please re-generate this link on WeChat]]></item>
+				<item id="wechat_openid_exists"><![CDATA[This WeChat account has been bound to other user, please replace]]></item>
+				<item id="wechat_tips"><![CDATA[
+					<li>The webmaster who selects the "Authentication Service Number" service should set the authorization callback page domain name as the domain name of the website in the "Author Center" OAuth2.0 webpage authorization setting.</li>
+					]]></item>
+				<item id="wechatapi_tips"><![CDATA[
+					<li>Before designing new WeChat and Discuz! micro-community plugins the plug-in developers must read carefully the next document: &laquo;<a href="http://open.discuz.net/?!devdoc" target="_blank">Discuz! Technical Library</a>&raquo;</li>
+					<li>Developers are welcome to visit the forum: &laquo;<a href="http://open.discuz.net/?!bbs" target="_blank">Discuz! Developers Exchange</a>&raquo;</li>
+					]]></item>
+				<item id="wsq_tips"><![CDATA[
+					<li>After comleting the following information, your micro-community will be automatically opened. After opening, users can read your forum content in WeChat, and post will be synchronized to your forum.</li>
+					<li>Once the provisioning is complete, add the micro-community URL provided by the system to the WeChat custom menu or set the keyword to trigger content for quick access by the user.</li>
+					<li>If your micro-community is always open, please make sure your site is in a public network and thee "<a href="http://addon.discuz.com/?@mobile.plugin" target="_blank">Mobile Forum</a> plugin is upgraded to the latest version</li>
+					<li>If your micro-communication doesn't post properly, please check that your forum version is upgraded to the latest version. <a href="{ADMINSCRIPT}upgrade">Check Forum Version</a></li>
+					]]></item>
+				<item id="menu_tips"><![CDATA[
+					<li>Before using this feature, please make sure that your public account has a "custom menu" service. Only the public number with this service can use this function.</li>
+					<li>You can set up to 3 menus, with up to 7 submenus in each menu</li>
+					<li>If you want to add access to the micro-community in the menu, please fill in "{url}" in the "Menu KEY Value / Web Link"</li>
+					<li>After the menu is published, WeChat client will be displayed inthe 24-hours, due to the WeChat client cache.</li>
+					]]></item>
+				<item id="response_tips"><![CDATA[
+					<li>Here you can set the response content of the WeChat public account after receiving the message. The default is controlled by the plugin itself, you can customize the content.</li>
+					<li>If your public account does not have a "customized menu" service and you want to respond to the micro-community access after receiving the message, please fill in "LOGIN_WSQ" in the "Response Content"</li>
+					<li>We allow other plugins to take control of this message, please read the document: <a href="http://open.discuz.net/?!devdoc" target="_blank">Discuz! Technical Library</a></li>
+					]]></item>
+				<item id="discuzqr_tips"><![CDATA[
+					<img src="source/plugin/wechat/image/discuz_qr.jpg" align="left" width="80" /><br />Scan to pay attention to Discuz! Official WeChat<br /><br />Get the latest news
+					]]></item>
+
+				<item id="wsq_status_open"><![CDATA[Open]]></item>
+				<item id="wsq_status_ing"><![CDATA[Is opening]]></item>
+				<item id="wsq_status_try"><![CDATA[Retry]]></item>
+				<item id="wsq_status_close"><![CDATA[Closed]]></item>
+				<item id="wsq_allow"><![CDATA[Allow micro-community]]></item>
+				<item id="wsq_allow_comment"><![CDATA[Whether to enable micro-community login and access]]></item>
+				<item id="wechat_allowregister"><![CDATA[Whether to enable WeChat user registration]]></item>
+				<item id="wechat_allowregister_comment"><![CDATA[Whether to allow WeChat users to register as members at this site]]></item>
+				<item id="wechat_allowfastregister"><![CDATA[Enable quick registration]]></item>
+				<item id="wechat_allowfastregister_comment"><![CDATA[If enabled then unbound WeChat users will be registered as new users directly.]]></item>
+				<item id="wechat_confirmtype"><![CDATA[Whether to enable login confirmation]]></item>
+				<item id="wechat_confirmtype_comment"><![CDATA[After enabling, the user will get a confirmation message that the PC will log in synchronously when logging in to WeChat. Moderators and above users cannot close this confirmation (This setting only works for the authentication service number)]]></item>
+				<item id="wechat_disableregrule"><![CDATA[Ignore the registration rules]]></item>
+				<item id="wechat_disableregrule_comment"><![CDATA[When enabled, some registration rule restrictions in "Registration and Access Control" will be ignored. Wechat users can register directly.]]></item>
+				<item id="wechat_mptype"><![CDATA[Public account type]]></item>
+				<item id="wechat_mptype_comment"><![CDATA[Choose your public account type and we will activate the function according to your public account type.]]></item>
+				<item id="wechat_mptype_0"><![CDATA[Non public number / subscription number / uncertified service number]]></item>
+				<item id="wechat_mptype_1"><![CDATA[Subscription number]]></item>
+				<item id="wechat_mptype_2"><![CDATA[Certified service number]]></item>
+				<item id="wechat_service_setting"><![CDATA[Server configuration <span class="normal">(If you want to use WeChat keyword reply and other functions in the background of the plugin, please fill in the contents of this column to the "developer center" setting of WeChat public platform. If you do not fill it, it will not affect the normal use of the micro community.)</span>]]></item>
+				<item id="wechat_devid_setting"><![CDATA[Developer ID <span class="normal">(If you want to set the WeChat custom menu in the background of the plugin and have the public number "Developer ID", please fill in this information in this column.)</span>]]></item>
+				<item id="wechat_func_setting"><![CDATA[Function settings]]></item>
+				<item id="wechat_wsq_setting"><![CDATA[Micro-community settings]]></item>
+				<item id="wechat_url"><![CDATA[URL]]></item>
+				<item id="wechat_token"><![CDATA[Token]]></item>
+				<item id="wechat_appId"><![CDATA[AppId]]></item>
+				<item id="wechat_appsecret"><![CDATA[AppSecret]]></item>
+				<item id="wechat_responseexts"><![CDATA[Extension embedded points]]></item>
+				<item id="wechat_devids"><![CDATA[Extension developer ID]]></item>
+				<item id="wechat_qrcode"><![CDATA[QR code]]></item>
+				<item id="wechat_qrcode_comment"><![CDATA[Please download the QR code in the account information of WeChat public platform and upload it here. The service number can ignore this setting.<br />{qrcode}]]></item>
+				<item id="wechat_at_need"><![CDATA[Service number must be filled in by developer ID]]></item>
+				<item id="wechat_at_geterror"><![CDATA[The developer ID is incorrectly filled or your server does not support SSL mode access for cURL]]></item>
+				<item id="wechat_at_qrgeterror"><![CDATA[Failed to get the QR code, please confirm whether your public number has the "Advanced Interface" service and its "Generate QR code with parameters"]]></item>
+				<item id="wechat_float_qrcode"><![CDATA[Whether to display the QR code on the right side of the page]]></item>
+				<item id="wechat_float_text"><![CDATA[Prompt text below the QR code]]></item>
+				<item id="wechat_user"><![CDATA[WeChat registration default username prefix]]></item>
+				<item id="wechat_user_comment"><![CDATA[WeChat registered users default prefix, users can modify the user name]]></item>
+				<item id="wechat_newusergroupid"><![CDATA[WeChat registered user default user group]]></item>
+				<item id="wechat_newusergroupid_comment"><![CDATA[The default user group of the WeChat registered user. Leave blank to show the default registered user group.]]></item>
+				<item id="wechat_followurl"><![CDATA[Follow page URL]]></item>
+				<item id="wechat_followurl_comment"><![CDATA[It is convenient for users to follow your public number through this article. <a href="http://addon.discuz.com/?!wechat_followurl_faq" target="_blank">How to use it?</a>]]></item>
+				<item id="wsq_followurl_error"><![CDATA[Pay attention to the page URL error, it must be the website under the domain name "mp.wexin.qq.com"]]></item>
+				<item id="wechat_response_text_codeerror"><![CDATA[The numeric code you entered is invalid. Please re-enter]]></item>
+				<item id="wechat_response_text_title"><![CDATA["{bbname}" Micro-community]]></item>
+				<item id="wechat_response_text_access"><![CDATA[Click this link to visit the micro-community on this site
+
+This post contains personal information, please don't share it]]></item>
+				<item id="wechat_response_text_sendnum"><![CDATA[The numeric code you entered is correct. Click here to log in to the micro-community of this site.
+
+This post contains personal information, please don't share it]]></item>
+				<item id="wechat_response_text_scan"><![CDATA[You have successfully scanned the QR code and click here to log in to the micro-community on this site.
+
+This post contains personal information, please don't share it]]></item>
+				<item id="wechat_message_codefull"><![CDATA[Currently unable to log in via WeChat, please try again later]]></item>
+				<item id="wechat_message_unbinded"><![CDATA[Your forum account and WeChat account have been unbind successfully.]]></item>
+				<item id="wechat_message_unbind_fail"><![CDATA[The account unbind is failed. Please try again later.]]></item>
+				<item id="wechat_login_closed"><![CDATA[Wechat login function has not been enabled, please contact the administrator]]></item>
+				<item id="wsq_password_reset"><![CDATA[Your forum's separate password has been set successfully.]]></item>
+				<item id="wsq_sitename"><![CDATA[Micro-community name]]></item>
+				<item id="wsq_sitelogo"><![CDATA[Micro-community LOGO]]></item>
+				<item id="wsq_sitelogo_comment"><![CDATA[It is recommended to upload am image with size 200x200 pixels<br />{sitelogo}]]></item>
+				<item id="wsq_sitesummary"><![CDATA[Micro-community Introduction]]></item>
+				<item id="wsq_siteurl"><![CDATA[Website URL]]></item>
+				<item id="wsq_siteurl_comment"><![CDATA[The URL address when the user accesses your website through WeChat. This URL must be in the public network environment.]]></item>
+				<item id="wsq_siteip"><![CDATA[Website IP]]></item>
+				<item id="wsq_siteip_comment"><![CDATA[If your micro-community is not available, try to fill in the IP address of your server]]></item>
+				<item id="wsq_url"><![CDATA[Micro-community URL]]></item>
+				<item id="wsq_siteid"><![CDATA[Micro-community ID]]></item>
+				<item id="wsq_sitetoken"><![CDATA[Micro-community Token]]></item>
+				<item id="wsq_fid"><![CDATA[Micro-community default section]]></item>
+				<item id="wsq_fid_comment"><![CDATA[Set the default section ID to display in the micro-community]]></item>
+				<item id="wsq_domain"><![CDATA[Micro-community sub-domain]]></item>
+				<item id="wsq_domain_comment"><![CDATA[You can set up a sub-domain name to directly access the micro-community of this site (only public number with "Advanced Interface" service). After the root domain is set, the domain name binding can take effect here.</a>]]></item>
+				<item id="wechat_forumdisplay_reply"><![CDATA[Whether to show the latest replies at the post list page]]></item>
+				<item id="wsq_api_register_error"><![CDATA[Micro-community registration failed, please try again later]]></item>
+				<item id="wsq_api_servertime_error"><![CDATA[Server time error, please try again after modification]]></item>
+				<item id="wsq_api_edit_error"><![CDATA[Micro-community data modification failed, please try again later]]></item>
+				<item id="wsq_menu_at_error"><![CDATA[You need to fill in the WeChat Developer ID to use this feature.]]></item>
+				<item id="wsq_menu_name"><![CDATA[Menu title]]></item>
+				<item id="wsq_menu_keyurl"><![CDATA[Menu KEY value / web link]]></item>
+				<item id="wsq_menu_sub_button"><![CDATA[Add sub-menu]]></item>
+				<item id="wsq_menu_button"><![CDATA[Add a first level menu]]></item>
+				<item id="wsq_menu_save"><![CDATA[Save menu]]></item>
+				<item id="wsq_menu_pub"><![CDATA[Publish menu]]></item>
+				<item id="wsq_menu_sub_button_max"><![CDATA[The sub-menu can have maximum 7 items]]></item>
+				<item id="wsq_menu_button_max"><![CDATA[The first level menu can have maximum 3 items]]></item>
+				<item id="wsq_menu_button_pub_error"><![CDATA[Menu data is incorrect and cannot be published]]></item>
+				<item id="wsq_menu_name_empty"><![CDATA[Menu cannot be published because of some menu items have empty "Menu Title" parameter.]]></item>
+				<item id="wsq_menu_keyurl_empty"><![CDATA[Menu cannot be published because of some items have empty "KEY value / web link" parameter.]]></item>
+				<item id="wsq_menu_pub_succeed"><![CDATA[The menu has been successfully updated to your WeChat public account]]></item>
+				<item id="wsq_menu_pub_error"><![CDATA[Menu publishing failed ({errno})]]></item>
+				<item id="wsq_fid_empty"><![CDATA[Micro-community default section cannot be empty]]></item>
+				<item id="wsq_mobile_plugin_error"><![CDATA["Mobile Forum" plugin is missing, please check]]></item>
+				<item id="wsq_wapdefault"><![CDATA[Show the micro-community at the mobile WAP version by default?]]></item>
+				<item id="wsq_apicredit"><![CDATA[Credits used by the micro-community]]></item>
+				<item id="wsq_apicredit_comment"><![CDATA[Set the credits used by the micro-community. Set to "None" to allow micro-community to operate with forum credits]]></item>
+				<item id="wsq_apicredit_log_inc"><![CDATA[Micro-community increase credits]]></item>
+				<item id="wsq_apicredit_log_dec"><![CDATA[Micro-community decrease credits]]></item>
+				<item id="wsq_global_banner"><![CDATA[Whether to show global activities Banner]]></item>
+				<item id="wsq_global_banner_comment"><![CDATA[Select "Yes" to show the current micro-community global activities at the top of the micro-community]]></item>
+				<item id="wsq_viewapp_local"><![CDATA[Local applications]]></item>
+				<item id="wsq_viewapp_local_comment"><![CDATA[Install the plug-in application locally at the Discuz! App Center, and view the application list. <a href="http://addon.discuz.com/?!wsqapp" class="bold">Click here</a>]]></item>
+				<item id="wsq_viewapp_online"><![CDATA[Online applications]]></item>
+				<item id="wsq_viewapp_online_comment"><![CDATA[The online application mainly provides functions such as operating components and global activities (such as scratch cards, red packets, etc.) for the webmaster through interface calls.<br />Before using online applications, you need to apply to bind your site to the micro-community application platform first: (<a href="http://mp.wsq.qq.com/bindSite" target="_blank" class="bold">http://mp.wsq.qq.com/bindSite</a>). Please manage the app directly (<a href="http://mp.wsq.qq.com" target="_blank" class="bold">http://mp.wsq.qq.com</a>)]]></item>
+				<item id="wsq_viewapp_pubevent"><![CDATA[Activity Center]]></item>
+				<item id="wsq_viewapp_na"><![CDATA[Currently there are no events.]]></item>
+				<item id="api_wsq"><![CDATA[Micro-community API]]></item>
+				<item id="api_wechat"><![CDATA[WeChat API]]></item>
+				<item id="response_keyword"><![CDATA[Keyword]]></item>
+				<item id="response_content"><![CDATA[Response content]]></item>
+				<item id="response_subscribe"><![CDATA[No public subscribe]]></item>
+				<item id="response_access"><![CDATA[Micro-community access (LOGIN_WSQ)]]></item>
+				<item id="response_access_comment"><![CDATA[Leave blank to use the system default text]]></item>
+				<item id="access"><![CDATA[Access]]></item>
+				<item id="response_scan"><![CDATA[Scan QR code (service number only)]]></item>
+				<item id="response_scan_comment"><![CDATA[Leave blank to use the system default text]]></item>
+				<item id="scan"><![CDATA[Scan]]></item>
+				<item id="response_custom"><![CDATA[Custom mode]]></item>
+				<item id="response_switch_plugin_mode"><![CDATA[Switch plugin mode ({plugin})]]></item>
+				<item id="response_plugin_mode"><![CDATA[Plugin mode ({plugin})]]></item>
+				<item id="subscribe"><![CDATA[Subscribe]]></item>
+				<item id="show_title"><![CDATA[Event title]]></item>
+				<item id="show_starttime"><![CDATA[Event start time]]></item>
+				<item id="show_endtime"><![CDATA[Event end time]]></item>
+				<item id="show_expiration"><![CDATA[Event registration deadline]]></item>
+				<item id="show_applynumber"><![CDATA[Number of members]]></item>
+				<item id="show_memo"><![CDATA[Event description]]></item>
+				<item id="show_forum"><![CDATA[Event forum section]]></item>
+				<item id="show_delthread"><![CDATA[Delete the thread of the sun]]></item>
+				<item id="show_addthread"><![CDATA[Add event photo]]></item>
+				<item id="show_delthread_succeed"><![CDATA[Event photo has been deleted]]></item>
+				<item id="show_thread_class"><![CDATA[Show image]]></item>
+				<item id="show_thread_place"><![CDATA[Mobile phone WeChat]]></item>
+				<item id="show_input_error"><![CDATA[Please fill in the complete information]]></item>
+				<item id="show_addthread_succeed"><![CDATA[Event photo published successfully]]></item>
+				<item id="show_please_reply"><![CDATA[After uploading your image in your reply, you will automatically participate in this event.]]></item>
+				<item id="show_no_cancel"><![CDATA[You cannot cancel the registration for this event]]></item>
+				<item id="show_disabled"><![CDATA[You can not do this in the photo activity.]]></item>
+				<item id="show_no_begin"><![CDATA[Event is yet not started]]></item>
+				<item id="show_please_upload"><![CDATA[Please upload an image to the event you want to participate in]]></item>
+				<item id="response_message"><![CDATA[Ordinary message]]></item>
+				<item id="response_switch_custom_mode"><![CDATA[Switch to custom mode]]></item>
+				<item id="response_add_message"><![CDATA[Add a response message]]></item>
+				<item id="response_subscribe_custom"><![CDATA[The message of public interest has been switched to custom mode]]></item>
+				<item id="response_subscribe_plugin"><![CDATA[The message of public interest has been restored to plugin mode]]></item>
+				<item id="response_message_custom"><![CDATA[Normal message has been switched to custom mode]]></item>
+				<item id="response_message_plugin"><![CDATA[Normal message has been restored to plugin mode]]></item>
+				<item id="wechat_member_bind_succeed"><![CDATA[The account has been successfully bound]]></item>
+				<item id="wechat_member_bind_qrauth_lost"><![CDATA[Request timed out, please click the "WeChat account binding" button again]]></item>
+				<item id="wechat_member_register_succeed"><![CDATA[Account has been successfully registered]]></item>
+				<item id="wechat_member_register_faild"><![CDATA[User registration failed, please try again later, the current user is temporarily unavailable]]></item>
+				<item id="wechat_member_auth_fail"><![CDATA[Security check failed, please re-scan login]]></item>
+				<item id="wechatapi_redirect"><![CDATA[WeChat jump URL]]></item>
+				<item id="api_receiveAllStart"><![CDATA[Global start]]></item>
+				<item id="api_receiveMsg::text"><![CDATA[Text message]]></item>
+				<item id="api_receiveMsg::location"><![CDATA[Location message]]></item>
+				<item id="api_receiveMsg::image"><![CDATA[Picture message]]></item>
+				<item id="api_receiveMsg::video"><![CDATA[Video message]]></item>
+				<item id="api_receiveMsg::link"><![CDATA[Link message]]></item>
+				<item id="api_receiveMsg::voice"><![CDATA[Voice messages]]></item>
+				<item id="api_receiveEvent::subscribe"><![CDATA[Subscribe event]]></item>
+				<item id="api_receiveEvent::unsubscribe"><![CDATA[Unsubscribe event]]></item>
+				<item id="api_receiveEvent::scan"><![CDATA[Scanning event parameters QR code]]></item>
+				<item id="api_receiveEvent::location"><![CDATA[Reporting geolocation event]]></item>
+				<item id="api_receiveEvent::click"><![CDATA[Custom menu event]]></item>
+				<item id="api_receiveAllEnd"><![CDATA[Global end]]></item>
+				<item id="api_accessCheckSuccess"><![CDATA[URL Validation Ok]]></item>
+				<item id="api_404"><![CDATA[Signature verification error]]></item>
+				<item id="api_hook"><![CDATA[Hook]]></item>
+				<item id="api_method"><![CDATA[Method]]></item>
+				<item id="lang_wechat_logintip"><![CDATA[Scan it, Visit the micro community]]></item>
+				<item id="lang_wechat_login"><![CDATA[Pay attention to the WeChat public account login]]></item>
+				<item id="lang_wechat_bind"><![CDATA[Scan it to bind Wechat account]]></item>
+				<item id="lang_wechat_threadmessage"><![CDATA[<br /><a onclick="return false" href="plugin.php?id=wechat:qrcode&threadqr={tid}&access=yes&inajax=yes#post_{pid}" onmouseover="ajaxmenu(this, 500, 1, 2, '43', null, 'p_pop', '');return false;" style="font-size:12px;color:#708090;">From: Micro-community</a>]]></item>
+			    <item id="mass_not_exist"><![CDATA[Group message does not exist]]></item>
+				<item id="mass_sent_succ"><![CDATA[Group message submitted successfully]]></item>
+				<item id="mass_send_expire"><![CDATA[If a message created more than three days ago, Media data has expired, Please recreate the group message]]></item>
+				<item id="mass_created_succ"><![CDATA[Group message created successfully]]></item>
+				<item id="mass_create"><![CDATA[New group message]]></item>
+				<item id="mass_no_pic"><![CDATA[Feed does not contain images]]></item>
+				<item id="mass_no_found"><![CDATA[Feed not found]]></item>
+				<item id="mass_no_text"><![CDATA[Group text is empty]]></item>
+				<item id="mass_del_tips_1"><![CDATA[Group message has been sent, but the end event has not been received. Is it deleted?]]></item>
+				<item id="mass_del_tips_2"><![CDATA[Are you sure you want to delete this message?]]></item>
+				<item id="mass_type"><![CDATA[Group content]]></item>
+				<item id="mass_select_media"><![CDATA[Select feed]]></item>
+				<item id="mass_send"><![CDATA[Send]]></item>
+				<item id="mass_list"><![CDATA[Message list]]></item>
+				<item id="mass_text_oper"><![CDATA[Operating]]></item>
+				<item id="mass_text_send"><![CDATA[Publish]]></item>
+				<item id="mass_created_at"><![CDATA[Create time]]></item>
+				<item id="mass_finish_at"><![CDATA[Send end time]]></item>
+				<item id="mass_status"><![CDATA[Status]]></item>
+				<item id="mass_totalcount"><![CDATA[Total number of fans]]></item>
+				<item id="mass_filtercount"><![CDATA[Pending]]></item>
+				<item id="mass_sendcount"><![CDATA[Sent successfully ]]></item>
+				<item id="mass_errorcount"><![CDATA[Failed to send]]></item>
+				<item id="mass_delete"><![CDATA[Delete]]></item>
+				<item id="mass_edit"><![CDATA[Edit]]></item>
+				<item id="mass_oper_succ"><![CDATA[Successful operation]]></item>
+				<item id="mass_group_id"><![CDATA[Bulk user group]]></item>
+				<item id="mass_get_group_failed"><![CDATA[Failed to get WeChat user group]]></item>
+        <item id="mass_main_tips"><![CDATA[
+            <li>Due to the WeChat interface limitation, the group sending function is only used for the authentication service number. For the subscription number, please use the related functions in the background of the WeChat public platform.</li>
+        ]]></item>
+        <item id="mass_add_tips"><![CDATA[
+        <li>The text message added by the group media is saved in the server for 3 days and deleted after three days, so you should send it within three days after the message is created.</li>
+        <li>The group user group is a group of users in WeChat. The number after the user group is the number of people in this group.</li>
+        <li>Group content: Supports both feed and plain text.</li>
+        <li>Please use the selection media to send to the feed, and the selected feed must contain the image.</li>
+        <li>Send plain text directly in the group feed box.</li>
+        ]]></item>
+        <item id="menu_root"><![CDATA[WeChat login]]></item>
+        <item id="menu_wsq"><![CDATA[Micro-community settings]]></item>
+        <item id="menu_wsq_base"><![CDATA[Basic settings]]></item>
+        <item id="menu_wsq_show"><![CDATA[Show image]]></item>
+        <item id="menu_wsq_stat"><![CDATA[Statistics]]></item>
+        <item id="menu_wechat"><![CDATA[WeChat settings]]></item>
+        <item id="menu_wechat_base"><![CDATA[Basic settings]]></item>
+        <item id="menu_wechat_msg"><![CDATA[Message settings]]></item>
+        <item id="menu_wechat_menu"><![CDATA[Menu Settings]]></item>
+        <item id="menu_wechat_resource"><![CDATA[Resource settings]]></item>
+        <item id="menu_wechat_masssend"><![CDATA[Bulk settings]]></item>
+        <item id="menu_app"><![CDATA[Event Center <u id="pubEventNum" style="margin-left:1px;background-color:red;padding:1px 2px;color:#fff;text-decoration:none;display:none"></u>]]></item>
+        <item id="menu_api"><![CDATA[API settings]]></item>
+        <item id="resource_select"><![CDATA[Select feed]]></item>
+        <item id="resource_type_all"><![CDATA[All feed]]></item>
+        <item id="resource_type_s"><![CDATA[Single feed]]></item>
+        <item id="resource_type_m"><![CDATA[Merged feed]]></item>
+        <item id="resource_merge"><![CDATA[Merge]]></item>
+        <item id="resource_append_merge"><![CDATA[Append feed]]></item>
+        <item id="resource_edit"><![CDATA[Edit]]></item>
+        <item id="resource_del"><![CDATA[Delete]]></item>
+        <item id="resource_remove"><![CDATA[Remove]]></item>
+        <item id="resource_merge_count"><![CDATA[Merged {count} feeds]]></item>
+        <item id="resource_view"><![CDATA[Click to view]]></item>
+        <item id="resource_add"><![CDATA[Add new feed]]></item>
+        <item id="resource_cancel_merge"><![CDATA[(Cancel merge)]]></item>
+        <item id="resource_name"><![CDATA[Feed name]]></item>
+        <item id="resource_title"><![CDATA[Title]]></item>
+        <item id="resource_pic"><![CDATA[Cover image]]></item>
+        <item id="resource_desc"><![CDATA[Description]]></item>
+        <item id="resource_content"><![CDATA[Text]]></item>
+        <item id="resource_url"><![CDATA[Original URL]]></item>
+        <item id="resource_order"><![CDATA[Order]]></item>
+        <item id="resource_msg_nofound"><![CDATA[Invalid feed]]></item>
+        <item id="resource_msg_del"><![CDATA[Are you sure you want to delete this feed?]]></item>
+        <item id="resource_msg_remove"><![CDATA[Are you sure you want to remove this feed from this combination?]]></item>
+        <item id="resource_msg_desc_toolong"><![CDATA[Description is too long, must be max 120 characters length.]]></item>
+        <item id="resource_thread_push"><![CDATA[Thread push]]></item>
+        <item id="resource_msg_pushed"><![CDATA[Successfully pushed to WeChat feed, please check in the management center]]></item>
+        <item id="stat_failed"><![CDATA[No statistics or connection to the server failed]]></item>
+        <item id="stat_newthread"><![CDATA[Number of threads]]></item>
+        <item id="stat_reply"><![CDATA[Number of replies]]></item>
+        <item id="stat_share"><![CDATA[Number of shares]]></item>
+        <item id="stat_reflow"><![CDATA[Number of reflow]]></item>
+        <item id="stat_joinsite"><![CDATA[Number of newly registered users]]></item>
+        <item id="show_export"><![CDATA[Export]]></item>
+        <item id="show_thread_not_found"><![CDATA[Show image thread not found]]></item>
+        <item id="show_export_title"><![CDATA[User name, number of likes, number of levels]]></item>
+			</item>
+			<item id="templatelang">
+				<item id="wechat_qrcode_inputcode"><![CDATA[Please enter the following numeric code after scanning the QR-code<br />]]></item>
+				<item id="wechat_qrcode_input_cancel"><![CDATA[Your login request is cancelled because of the digital code has been expired.<br />Please click on the top left corner to return to WeChat chat]]></item>
+				<item id="wechat_qrcode_input_confirm"><![CDATA[You plan to log in with the browser as a "$member[username]"<br />Please confirm you operation.]]></item>
+				<item id="wechat_qrcode_input_confirm_yes"><![CDATA[I confirm login as this user]]></item>
+				<item id="wechat_spacecp_bind_title"><![CDATA[You have already used this account to Bind with WeChat: <strong>{$_G[member][username]}</strong>]]></item>
+				<item id="wechat_spacecp_setpw"><![CDATA[Set a separate password]]></item>
+				<item id="wechat_spacecp_pw"><![CDATA[New password]]></item>
+				<item id="wechat_spacecp_repw"><![CDATA[Confirm password]]></item>
+				<item id="wechat_spacecp_unbind"><![CDATA[Unbind account?]]></item>
+				<item id="wechat_spacecp_setpw_first"><![CDATA[Please set the independent password before unbinding]]></item>
+				<item id="wechat_spacecp_unbind_confirm"><![CDATA[Are you sure you want to unbind your account from this site?]]></item>
+				<item id="wechat_spacecp_unbind_button"><![CDATA[Confirm unbind]]></item>
+				<item id="wechat_bind"><![CDATA[Bind WeChat account]]></item>
+				<item id="wechat_login"><![CDATA[Wechat account login]]></item>
+				<item id="wechat_bind_comfirm_prompt"><![CDATA[Please enter your forum login password to confirm your identity]]></item>
+				<item id="quickregister"><![CDATA[Sign up now]]></item>
+				<item id="inputyourname"><![CDATA[Please enter user name]]></item>
+				<item id="wsq_indexqr"><![CDATA[Scan WeChat QR code<br />Interactive win points]]></item>
+				<item id="wsq_threadqr"><![CDATA[Scan the WeChat and win points with interaction]]></item>
+				<item id="wechat_share"><![CDATA[WeChat]]></item>
+				<item id="wechat_sharetitle"><![CDATA[Share to WeChat]]></item>
+				<item id="wechat_register"><![CDATA[Fill in the following information to complete the WeChat account registration]]></item>
+				<item id="show_recommend_number"><![CDATA[<strong class="xi1">{$post[voters]}</strong> people like this]]></item>
+				<item id="show_scanqr"><![CDATA[Scan the QR code on WeChat for my ticket]]></item>
+				<item id="resource_push"><![CDATA[Push to WeChat feed]]></item>
+			</item>
+		</item>
+		<item id="installfile"><![CDATA[install.php]]></item>
+		<item id="upgradefile"><![CDATA[install.php]]></item>
+	</item>
+</root>
