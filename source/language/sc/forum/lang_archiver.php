@@ -14,13 +14,14 @@ if(!defined('IN_DISCUZ')) {
 $lang = array
 (
 
-	'page' => '页',
-	'replies' => '篇回复',
-	'anonymous' => '匿名',
-	'full_version' => '查看完整版本',
-	'forum_nonexistence' => '抱歉，您没有权限访问这个论坛的存档或该论坛不存在',
-	'thread_nonexistence' => '抱歉，您没有权限查看这个话题或该话题不存在',
-	'post_time' => '发表于',
+	'page' => 'page' ,
+	'replies' => 'replies' ,
+	'anonymous' => 'anonymous' ,
+	'full_version' => 'View the full version' ,
+	'forum_nonexistence' => 'Sorry, you do not have permission to access the archive of this forum or the forum does not exist' ,
+	'thread_nonexistence' => 'Sorry, you do not have permission to view this topic or this topic does not exist' ,
+	'post_time' => 'Post on' ,
+
 
 );
 

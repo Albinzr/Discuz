@@ -13,48 +13,48 @@ if(!defined('IN_DISCUZ')) {
 
 $lang = array
 (
-	'feed_thread_pin_title' =>		'{actor} 发表的主题 {subject} 被 {operater} 置顶',
+	'feed_thread_pin_title' =>		 'The topic {subject} posted by {actor} is pinned to the top by {operater}' ,
 
-	'feed_thread_digest_title' =>		'{actor} 发表的主题 {subject} 被 {operater} 加精',
+	'feed_thread_digest_title' =>		 'The subject {subject} posted by {actor} has been refined by {operater}' ,
 
-	'feed_thread_highlight_title' =>	'{actor} 发表的主题 {subject} 被 {operater} 高亮',
+	'feed_thread_highlight_title' =>	 'The topic {subject} posted by {actor} is highlighted by {operater}' ,
 
-	'feed_thread_del_title' =>		'{actor} 发表的主题 {subject} 被 {operater} 删除',
+	'feed_thread_del_title' =>		 'The subject {subject} posted by {actor} was deleted by {operater}' ,
 
-	'feed_thread_move_title' =>		'{actor} 发表的主题 {subject} 被 {operater} 移动',
+	'feed_thread_move_title' =>		 'The subject {subject} posted by {actor} was moved by {operater}' ,
 
-	'feed_thread_views_title' =>		'{actor} 发表的主题 {subject} 查看数超过了 {count}',
+	'feed_thread_views_title' =>		 'The number of views of {subject} posted by {actor} exceeds {count}' ,
 
-	'feed_thread_replies_title' =>		'{actor} 发表的主题 {subject} 回复数超过了 {count}',
+	'feed_thread_replies_title' =>		 'The number of replies to the topic {subject} posted by {actor} exceeds {count}' ,
 
-	'feed_thread_rate_title' =>		'{actor} 发表的主题 {subject} 评分超过了 {count}',
+	'feed_thread_rate_title' =>		 '{actor} posted a topic {subject} with a rating exceeding {count}' ,
 
-	'feed_thread_magic_title' =>		'{actor} 发表的主题 {subject} 被 {operater} 使用了 {magiccard}',
+	'feed_thread_magic_title' =>		 'The subject {subject} posted by {actor} is used by {operater} {magiccard}' ,
 
-	'feed_thread_recommend_title' =>	'{actor} 发表的主题 {subject} 被版主推荐',
+	'feed_thread_recommend_title' =>	 'The topic {subject} posted by {actor} is recommended by the moderator' ,
 
-	'feed_post_rate_title' =>		'{actor} 在 {thread} 的回复评分超过了{count}',
+	'feed_post_rate_title' =>		 '{actor}’s response rating on {thread} exceeds {count}' ,
 
-	'feed_post_magic_title' =>		'{actor} 在 {thread} 的回复被 {operater} 使用了 {magiccard}',
+	'feed_post_magic_title' =>		 '{actor}’s reply in {thread} was used by {operater} {magiccard}' ,
 
-	'feed_user_profile_title' =>		'{actor} 更新了自己的个人资料',
+	'feed_user_profile_title' =>		 '{actor} updated his profile' ,
 
-	'feed_user_usergroup_title' =>		'{actor} 的用户组升级为 {usergroup}',
+	'feed_user_usergroup_title' =>		 '{actor}’s user group is upgraded to {usergroup}' ,
 
-	'feed_user_credit_title' =>		'{actor} 的总积分达到 {count}',
+	'feed_user_credit_title' =>		 '{actor}’s total points reach {count}' ,
 
-	'feed_user_threads_title' =>		'{actor} 发表的主题数达到 {count}',
+	'feed_user_threads_title' =>		 'The number of topics posted by {actor} reaches {count}' ,
 
-	'feed_user_posts_title' =>		'{actor} 的发帖数达到 {count}',
+	'feed_user_posts_title' =>		 '{actor} has posted {count}' ,
 
-	'feed_user_digest_title' =>		'{actor} 的精华帖数达到 {count}',
+	'feed_user_digest_title' =>		 '{actor}’s essence posts reached {count}' ,
 
-	'feed_user_medal_title' =>		'{actor} 得到勋章 {medal} 奖励',
+	'feed_user_medal_title' =>		 '{actor} received a medal {medal} reward' ,
 
-	'feed_announce_title' =>		'公告: {subject}',
+	'feed_announce_title' =>		'announcement: {subject}',
 	'feed_announce_body' =>			'{message}',
 
-	'you' => '您',
+	'you' => 'you' ,
 
 );
 

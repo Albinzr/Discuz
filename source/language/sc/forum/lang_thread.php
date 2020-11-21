@@ -12,14 +12,14 @@ if(!defined('IN_DISCUZ')) {
 }
 
 $lang = array (
-	  'forum_archive' => '存档',
-	  'source' => '来源',
+	'forum_archive' => 'Archive' ,
+	'source' => 'source' ,
 
-	  't_question' => '？',
-	  't_comma' => '，',
-	  't_exclamatory' => '！',
-	  't_period' => '。',
-	  't_suspension' => '…',
+	't_question' => '？',
+	't_comma' => '，',
+	't_exclamatory' => '！',
+	't_period' => '。',
+	't_suspension' => '…',
 
 );
 ?>

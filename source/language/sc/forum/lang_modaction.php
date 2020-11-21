@@ -14,81 +14,81 @@ if(!defined('IN_DISCUZ')) {
 $lang = array
 (
 
-	'EDT' => '编辑',
+	'EDT' => 'Edit' ,
 
-	'DEL' => '删除',
-	'DLP' => '删除回复',
-	'DCM' => '删除点评',
-	'PRN' => '批量删帖',
-	'UDL' => '反删除',
+	'DEL' => 'Delete' ,
+	'DLP' => 'Delete reply' ,
+	'DCM' => 'Delete review' ,
+	'PRN' => 'Batch delete posts' ,
+	'UDL' => 'Undelete' ,
 
-	'DIG' => '加入精华',
-	'UDG' => '解除精华',
-	'EDI' => '限时精华',
-	'UED' => '解除限时精华',
+	'DIG' => 'Add the essence' ,
+	'UDG' => 'Relief Essence' ,
+	'EDI' => 'Limited Time Essence' ,
+	'UED' => 'Unlock the limited time essence' ,
 
-	'CLS' => '关闭',
-	'OPN' => '打开',
-	'ECL' => '限时关闭',
-	'UEC' => '解除限时关闭',
-	'EOP' => '限时打开',
-	'UEO' => '解除限时打开',
+	'CLS' => 'Close' ,
+	'OPN' => 'Open' ,
+	'ECL' => 'Closed for a limited time' ,
+	'UEC' => 'Release time-limited shutdown' ,
+	'EOP' => 'Open for a limited time' ,
+	'UEO' => 'Unlock time limit' ,
 
-	'STK' => '置顶',
-	'UST' => '解除置顶',
-	'EST' => '限时置顶',
-	'UES' => '解除限时置顶',
+	'STK' => 'Sticky' ,
+	'UST' => 'Remove the top' ,
+	'EST' => 'Limited time to top' ,
+	'UES' => 'Release the time limit to the top' ,
 
-	'SPL' => '分割',
-	'MRG' => '合并',
+	'SPL' => 'Split' ,
+	'MRG' => 'Merge' ,
 
-	'HLT' => '设置高亮',
-	'UHL' => '解除高亮',
-	'EHL' => '限时高亮',
-	'UEH' => '解除限时高亮',
+	'HLT' => 'Set highlight' ,
+	'UHL' => 'Unhighlight ' ,
+	'EHL' => 'Limited time highlight' ,
+	'UEH' => 'Release time-limited highlight' ,
 
-	'BMP' => '提升',
-	'DWN' => '下沉',
+	'BMP' => 'Boost' ,
+	'DWN' => 'Sink' ,
 
-	'MOV' => '移动',
-	'CPY' => '复制',
-	'TYP' => '分类',
+	'MOV' => 'Move' ,
+	'CPY' => 'Copy' ,
+	'TYP' => 'Classification' ,
 
-	'RFD' => '强制退款',
+	'RFD' => 'Forced refund' ,
 
-	'MOD' => '审核通过',
+	'MOD' => 'Approved' ,
 
-	'ABL' => '加入文集',
-	'RBL' => '移除文集',
+	'ABL' => 'Join the collection' ,
+	'RBL' => 'Remove corpus' ,
 
-	'PTS' => '推送主题',
-	'RFS' => '解除推送',
-	'RMR' => '取消悬赏',
-	'BNP' => '屏蔽帖子',
-	'UBN' => '解除屏蔽',
+	'PTS' => 'Push topic' ,
+	'RFS' => 'Remove push' ,
+	'RMR' => 'Cancel reward' ,
+	'BNP' => 'Block posts' ,
+	'UBN' => 'Unblock' ,
 
-	'REC' => '推荐',
-	'URE' => '解除推荐',
+	'REC' => 'Recommendation' ,
+	'URE' => 'Remove recommendation' ,
 
-	'WRN' => '警告',
-	'UWN' => '解除警告',
+	'WRN' => 'Warning' ,
+	'UWN' => 'Unwarn ' ,
 
-	'SPA' => '添加图章',
-	'SPD' => '撤销图章',
+	'SPA' => 'Add stamp' ,
+	'SPD' => 'Cancel Stamp' ,
 
-	'SLA' => '添加图标',
-	'SLD' => '撤销图标',
+	'SLA' => 'Add icon' ,
+	'SLD' => 'Cancel icon' ,
 
-	'REG' => '群组推荐',
+	'REG' => 'Group recommendation' ,
 
-	'PTA' => '生成文章',
+	'PTA' => 'Generate Article' ,
 
-	'MAG' => '道具',
+	'MAG' => 'Props' ,
 
-	'REB' => '推送',
+	'REB' => 'Push' ,
 
-	'LIV' => '直播',
-	'LIC' => '取消直播',
+	'LIV' => 'Live' ,
+	'LIC' => 'Cancel live broadcast' ,
 
 );
 
